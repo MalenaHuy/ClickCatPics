@@ -4,14 +4,14 @@
 h1{
     /* how we stlye it */ 
     font-weight: 200;
-    font-size: 70px;
+    font-size: 40px;
     text-transform: uppercase;
     border-top: 5px solid;
     /* color: purple; */
 }
 
 body{
-    background-color: #f69680;
+    background-color: #7aa8d3;
     color: #2e1263;
     font-family:"Source Code Pro";
     font-weight: 200;
@@ -34,7 +34,7 @@ img{
 button{
     margin: 30px auto 0;
     padding: 20px 25px ;
-    background-color: #F69680;
+    background-color: #4289cc;
     color: #2e1263;
     font-size: 14px;
     text-align: center;
@@ -49,8 +49,8 @@ button{
 button:hover {
     /* set the time reaction change color for the button */
     transition: 0.3s;
-    background-color: #2e1263;
-    color: #f69680;
+    background-color: #1223b8;
+    color: #768396;
     text-decoration: underline;
 }
 
