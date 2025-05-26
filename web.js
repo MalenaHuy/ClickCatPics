@@ -5,6 +5,9 @@ var pics =[
     "imgs/kitty_laptop.jpg",
     "imgs/kitty_sink.jpg",
     "imgs/kitty_wall.jpg"
+    "imgs/kitty_basket.jpg",
+    "imgs/kitty_bed.jpg",
+    "imgs/kitty_door.jpg"
 ]
 
 // btn named whatever you want
@@ -15,7 +18,7 @@ var counter = 1;
 // want to run something if I click; everyting the the {} will runs if i click
 btn.addEventListener("click", function(){
     // Loop from 0 to 6; only run if counter is exactly 6
-    if (counter ===3){
+    if (counter ===6){
         counter = 0;
     }
     // alert("clicked!")
